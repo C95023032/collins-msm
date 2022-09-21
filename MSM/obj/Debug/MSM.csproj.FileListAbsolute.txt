@@ -75,3 +75,31 @@ C:\Users\C95015588\source\repos\GITHUB MSM\MSMConDiseño\collins-msm\MSM\obj\Deb
 C:\Users\C95015588\source\repos\GITHUB MSM\MSMConDiseño\collins-msm\MSM\obj\Debug\MSM.csproj.CopyComplete
 C:\Users\C95015588\source\repos\GITHUB MSM\MSMConDiseño\collins-msm\MSM\obj\Debug\MSM.exe
 C:\Users\C95015588\source\repos\GITHUB MSM\MSMConDiseño\collins-msm\MSM\obj\Debug\MSM.pdb
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\bin\Debug\MSM.exe.config
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\bin\Debug\MSM.exe
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\bin\Debug\MSM.pdb
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\bin\Debug\MetroFramework.Design.dll
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\bin\Debug\MetroFramework.dll
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\bin\Debug\System.Data.SqlClient.dll
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\bin\Debug\System.Data.SqlClient.xml
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.csproj.AssemblyReference.cache
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.csproj.SuggestedBindingRedirects.cache
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.csproj.ResolveComReference.cache
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.Administracion.resources
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.Administracion_actualizar_nivel.resources
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.Administracion_Administrador.resources
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.Empleado_Kardex.resources
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.Login.resources
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.Menu.resources
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.MSM_Area.resources
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.KARDEX_TIPODETALLE.resources
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.Properties.Resources.resources
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.Reporte_Por_Vencer.resources
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.csproj.GenerateResource.cache
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.csproj.CoreCompileInputs.cache
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.csproj.CopyComplete
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.exe
+C:\Users\C95023032\Documents\Repositorio fer prueba 2\collins-msm\MSM\obj\Debug\MSM.pdb
