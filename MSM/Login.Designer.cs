@@ -278,9 +278,9 @@
             this.label5.ForeColor = System.Drawing.SystemColors.ScrollBar;
             this.label5.Location = new System.Drawing.Point(12, 49);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(102, 27);
+            this.label5.Size = new System.Drawing.Size(116, 27);
             this.label5.TabIndex = 25;
-            this.label5.Text = "COLLINS";
+            this.label5.Text = "COLLINSA";
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label10
