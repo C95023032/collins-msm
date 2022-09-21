@@ -38,7 +38,6 @@
             this.labelCodigoTexto = new System.Windows.Forms.Label();
             this.labelNombreTexto = new System.Windows.Forms.Label();
             this.TittleBar = new System.Windows.Forms.Panel();
-            this.buttonRegresar = new System.Windows.Forms.Button();
             this.buttonMinimizar = new System.Windows.Forms.Button();
             this.buttonCerrar = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -168,7 +167,6 @@
             // TittleBar
             // 
             this.TittleBar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.TittleBar.Controls.Add(this.buttonRegresar);
             this.TittleBar.Controls.Add(this.buttonMinimizar);
             this.TittleBar.Controls.Add(this.buttonCerrar);
             this.TittleBar.Dock = System.Windows.Forms.DockStyle.Top;
@@ -180,25 +178,6 @@
             this.TittleBar.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnlTitleBar_MouseDown);
             this.TittleBar.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pnlTitleBar_MouseMove);
             this.TittleBar.MouseUp += new System.Windows.Forms.MouseEventHandler(this.pnlTitleBar_MouseUp);
-            // 
-            // buttonRegresar
-            // 
-            this.buttonRegresar.BackColor = System.Drawing.Color.Transparent;
-            this.buttonRegresar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.buttonRegresar.Dock = System.Windows.Forms.DockStyle.Right;
-            this.buttonRegresar.FlatAppearance.BorderSize = 0;
-            this.buttonRegresar.FlatAppearance.MouseDownBackColor = System.Drawing.SystemColors.MenuHighlight;
-            this.buttonRegresar.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.MenuHighlight;
-            this.buttonRegresar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonRegresar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonRegresar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.buttonRegresar.Location = new System.Drawing.Point(340, 0);
-            this.buttonRegresar.Name = "buttonRegresar";
-            this.buttonRegresar.Size = new System.Drawing.Size(34, 30);
-            this.buttonRegresar.TabIndex = 2;
-            this.buttonRegresar.Text = "<";
-            this.buttonRegresar.UseVisualStyleBackColor = false;
-            this.buttonRegresar.Click += new System.EventHandler(this.buttonRegresar_Click);
             // 
             // buttonMinimizar
             // 
@@ -586,7 +565,6 @@
             this.Opacity = 0.8D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MSM_Detalles";
-        
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnlTitleBar_MouseDown);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pnlTitleBar_MouseMove);
             this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.pnlTitleBar_MouseUp);
@@ -611,7 +589,6 @@
         private System.Windows.Forms.Label labelCodigoTexto;
         private System.Windows.Forms.Label labelNombreTexto;
         private System.Windows.Forms.Panel TittleBar;
-        private System.Windows.Forms.Button buttonRegresar;
         private System.Windows.Forms.Button buttonMinimizar;
         private System.Windows.Forms.Button buttonCerrar;
         private System.Windows.Forms.Panel panel1;
